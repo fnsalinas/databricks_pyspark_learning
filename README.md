@@ -14,10 +14,21 @@ ___________
 ___________
 ## Contenido
 
-1. Fundamentos de Spark.
-2. ¿Cómo se ejecuta Apache Spark?
-3. Ecosistema de Apache Spark y Documentación oficial.
-4. PySpark: funcionamiento, Administración de Clusteres y Arquitecura.
-
+### **Seccion 1**: Introducción
+1. --
+2. Fundamentos de Spark. [<a href="https://www.youtube.com/watch?v=bApGhYlbD5w">Video 1</a>]
+3. ¿Cómo se ejecuta Apache Spark? [<a href="https://www.youtube.com/watch?v=bApGhYlbD5w">Video 1</a>]
+4. Ecosistema de Apache Spark y Documentación oficial. [<a href="https://www.youtube.com/watch?v=bApGhYlbD5w">Video 1</a>]
+5. PySpark: funcionamiento, Administración de Clusteres y Arquitecura. [<a href="https://www.youtube.com/watch?v=bApGhYlbD5w">Video 1</a>]
+### **Seccion 2**: Spark DataFrames y Apache Spark SQL
+6. Material y código del módulo. -> <a href="https://github.com/fnsalinas/databricks_pyspark_learning/blob/main/notebooks/2.%20Fundamentos%20de%20Spark_SQL_DataFrames.ipynb">2. Fundamentos de Spark_SQL_DataFrames.ipynb</a> [<a href="https://www.youtube.com/watch?v=bApGhYlbD5w">Video 1</a>]
+7. Fundamentos y ventajas de los DataFrames. [<a href="https://www.youtube.com/watch?v=bApGhYlbD5w">Video 1</a>]
+8. Caracteristicas de los DataFrames y Fuentes de Datos. [<a href="https://www.youtube.com/watch?v=bApGhYlbD5w">Video 1</a>]
+9. Creación de DataFrames en PySpark.
+10. Operaciones con DataFrames de PySpark.
+11. Diferentes tipos de JOINS en DataFrames.
+12. Consultas SQL en PySpark.
+13. Funciones avanzadas para cargar y exportar datos en PySpark.
+### **Seccion 3**: Funciones avanzadas de Spark
 ___________
 ## Organización del repositorio
