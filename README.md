@@ -10,7 +10,7 @@ ___________
 - **Repositorio**: <a href="https://github.com/fnsalinas/databricks_pyspark_learning.git" target="_blank">Repo: Databricks Pyspark Learning</a>
 - **Databricks Community Edition**: <a href="https://community.cloud.databricks.com/login.html" target="_blank">Databricks Community Edition</a>  
 - **Documentación Apache Spark**:  <a href="https://spark.apache.org/">spark.apache.org</a>
-- **Documentación Kubernetes en AWS**: <a href="https://docs.aws.amazon.com/eks/>docs.aws.amazon.com/eks</a>
+- **Documentación Kubernetes en AWS**: <a href="https://docs.aws.amazon.com/eks/">docs.aws.amazon.com/eks</a>
 ___________
 ## Contenido
 
