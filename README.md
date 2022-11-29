@@ -12,6 +12,23 @@ ___________
 - **Documentación Apache Spark**:  <a href="https://spark.apache.org/">spark.apache.org</a>
 - **Documentación Kubernetes en AWS**: <a href="https://docs.aws.amazon.com/eks/">docs.aws.amazon.com/eks</a>
 ___________
+## Libros
+
+<table>
+    <tr>
+        <td>
+            <a href="https://1drv.ms/b/s!AniDXLYsIpTn3d9iZUveqV2Vo4HQUw?e=tYixzl" target="_blank"><img src="img/ml.png" width="200" height="260" align="left"></img></a>
+            <a href="https://1drv.ms/b/s!AniDXLYsIpTn3d9eGCdC6uVoyqbvsg?e=GbIlTU" target="_blank"><img src="img/fd.png" width="200" height="260" align="left"></img></a>
+            <a href="https://1drv.ms/b/s!AniDXLYsIpTn3d9fMFZmWvQeCUcCGA?e=L5TLd3" target="_blank"><img src="img/ls.png" width="200" height="260" align="left"></img></a>
+            <a href="https://1drv.ms/b/s!AniDXLYsIpTn3d9h-fp6EYTGvP-YRg?e=vsPC6Y" target="_blank"><img src="img/dd.png" width="200" height="260" align="left"></img></a>
+            <a href="https://1drv.ms/b/s!AniDXLYsIpTn3d9g-DoucQS5mzqgmQ?e=bPfobE" target="_blank"><img src="img/dw.png" width="200" height="260" align="left"></img></a>
+            <a href="https://1drv.ms/b/s!AniDXLYsIpTn3d9jO_hY1VE9TR8TbA?e=rhNanF" target="_blank"><img src="img/pda.png" width="200" height="260" align="left"></img></a>
+        </td>
+    </tr>
+</table>
+
+
+___________
 ## Contenido
 
 ### **Seccion 1**: Introducción
