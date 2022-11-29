@@ -27,6 +27,8 @@ ___________
                 <img style="border:1px solid black; margin:2px; padding:2px;" src="img/ls.png" width="200" height="260" align="left"></img>
             </a>
         </td>
+    </tr>
+    <tr>
         <td>
             <a href="https://1drv.ms/b/s!AniDXLYsIpTn3d9h-fp6EYTGvP-YRg?e=vsPC6Y" target="_blank">
                 <img style="border:1px solid black; margin:2px; padding:2px;" src="img/dd.png" width="200" height="260" align="left"></img>
