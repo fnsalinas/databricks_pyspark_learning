@@ -11,6 +11,7 @@ ___________
 - **Databricks Community Edition**: <a href="https://community.cloud.databricks.com/login.html" target="_blank">Databricks Community Edition</a>  
 - **Documentación Apache Spark**:  <a href="https://spark.apache.org/">spark.apache.org</a>
 - **Documentación Kubernetes en AWS**: <a href="https://docs.aws.amazon.com/eks/">docs.aws.amazon.com/eks</a>
+- **Libro: Learning Spark Repositorio**: <a href="https://github.com/fnsalinas/LearningSparkV2" target="_blank">Learning Spark Repositorio</a>
 ___________
 ## Libros
 
@@ -63,5 +64,21 @@ ___________
 12. Consultas SQL en PySpark.
 13. Funciones avanzadas para cargar y exportar datos en PySpark.
 ### **Seccion 3**: Funciones avanzadas de Spark
+___________
+## Avances de lectura de libros
+<table>
+    <tr>
+        <td>
+            <a href="https://1drv.ms/b/s!AniDXLYsIpTn3d9fMFZmWvQeCUcCGA?e=L5TLd3" target="_blank">
+                <img style="border:1px solid black; margin:2px; padding:2px;" src="img/ls.png" width="200" height="260" align="left"></img>
+            </a>
+        </td>
+        <td>
+            <p><b>2022-11-29</b>: Avance hasta la pagina 34, se debe empezar desde "Data science tasks"</p>
+        </td>
+    </tr>
+</table>
+
+
 ___________
 ## Organización del repositorio

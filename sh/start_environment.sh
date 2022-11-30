@@ -69,6 +69,7 @@ if [ ! -f "requirements.txt" ]; then
     echo "ipywidgets" >> requirements.txt
     echo "cx-Oracle" >> requirements.txt
     echo "pyodbc" >> requirements.txt
+    echo "pyspark" >> requirements.txt
 fi
 
 # if README.md file doesn't exist, create it
