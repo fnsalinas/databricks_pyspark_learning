@@ -66,7 +66,7 @@ ___________
 12. Consultas SQL en PySpark. [<a href="https://youtu.be/n5SFZoc-Ty4">Video 3</a>]
 13. Funciones avanzadas para cargar y exportar datos en PySpark. <!-- [<a href="">Video 4</a>] -->
 ### **Seccion 3**: Funciones avanzadas de Spark
-14. Material y código del módulo. -> <a href="">3. Fundamentos de Spark_Funciones avanzadas.ipynb</a>
+14. Material y código del módulo. -> <a href="https://github.com/fnsalinas/databricks_pyspark_learning/blob/main/notebooks/3.%20Fundamentos%20de%20Spark_Funciones%20avanzadas.ipynb">3. Fundamentos de Spark_Funciones avanzadas.ipynb</a>
 15. Funciones avanzadas y optimización del rendimiento. <!-- [<a href="">Video 4</a>] -->
 16. BroadCast Join y almacenamiento en cache. <!-- [<a href="">Video 4</a>] -->
 17. User Defined Functions (UDF) y funciones avalzadas de SQL. <!-- [<a href="">Video 4</a>] -->
