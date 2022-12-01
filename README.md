@@ -75,6 +75,7 @@ ___________
         </td>
         <td>
             <p><b>2022-11-29</b>: Avance hasta la pagina 34, se debe empezar desde "Data science tasks"</p>
+            <p><b>2022-11-30</b>: Avance hasta la pagina 47, se debe empezar desde "Step 3: Understanding Spark ApplicationConcepts"</p>
         </td>
     </tr>
 </table>

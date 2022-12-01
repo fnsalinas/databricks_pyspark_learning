@@ -13,6 +13,8 @@ nbformat = "*"
 pandas-profiling = "*"
 ipywidgets = "*"
 databricks-pyspark-learning = {editable = true, path = "."}
+pyspark = {extras = ["ml", "mllib", "sql"], version = "*"}
+findspark = "*"
 
 [dev-packages]
 
