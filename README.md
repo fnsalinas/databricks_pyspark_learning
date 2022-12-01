@@ -58,12 +58,24 @@ ___________
 6. Material y código del módulo. -> <a href="https://github.com/fnsalinas/databricks_pyspark_learning/blob/main/notebooks/2.%20Fundamentos%20de%20Spark_SQL_DataFrames.ipynb">2. Fundamentos de Spark_SQL_DataFrames.ipynb</a> [<a href="https://www.youtube.com/watch?v=bApGhYlbD5w">Video 1</a>]
 7. Fundamentos y ventajas de los DataFrames. [<a href="https://www.youtube.com/watch?v=bApGhYlbD5w">Video 1</a>]
 8. Caracteristicas de los DataFrames y Fuentes de Datos. [<a href="https://www.youtube.com/watch?v=bApGhYlbD5w">Video 1</a>]
-9. Creación de DataFrames en PySpark.
-10. Operaciones con DataFrames de PySpark.
-11. Diferentes tipos de JOINS en DataFrames.
-12. Consultas SQL en PySpark.
-13. Funciones avanzadas para cargar y exportar datos en PySpark.
+    - Lectura de libro para instalación de Spark: [<a href="https://youtu.be/Xkz9cM5d9HY">Video 2</a>]
+    - Instalación de Spark: [<a href="https://youtu.be/n5SFZoc-Ty4">Video 3</a>]
+9. Creación de DataFrames en PySpark. [<a href="https://youtu.be/n5SFZoc-Ty4">Video 3</a>]
+10. Operaciones con DataFrames de PySpark. [<a href="https://youtu.be/n5SFZoc-Ty4">Video 3</a>]
+11. Diferentes tipos de JOINS en DataFrames. [<a href="https://youtu.be/n5SFZoc-Ty4">Video 3</a>]
+12. Consultas SQL en PySpark. [<a href="https://youtu.be/n5SFZoc-Ty4">Video 3</a>]
+13. Funciones avanzadas para cargar y exportar datos en PySpark. <!-- [<a href="">Video 4</a>] -->
 ### **Seccion 3**: Funciones avanzadas de Spark
+14. Material y código del módulo. -> <a href="">3. Fundamentos de Spark_Funciones avanzadas.ipynb</a>
+15. Funciones avanzadas y optimización del rendimiento. <!-- [<a href="">Video 4</a>] -->
+16. BroadCast Join y almacenamiento en cache. <!-- [<a href="">Video 4</a>] -->
+17. User Defined Functions (UDF) y funciones avalzadas de SQL. <!-- [<a href="">Video 4</a>] -->
+18. Manejo e imputación de valores faltantes. <!-- [<a href="">Video 4</a>] -->
+### **Seccion 4**: Fundamentos de Databricks
+19. Introducción a Databriks. <!-- [<a href="">Video 4</a>] -->
+20. Arquitectura de Databriks y caso práctico con Azure Databriks. <!-- [<a href="">Video 4</a>] -->
+21. Terminología de Databriks y Databriks Community. <!-- [<a href="">Video 4</a>] -->
+22. Crear cuenta gratuita de Databriks. <!-- [<a href="">Video 4</a>] -->
 ___________
 ## Avances de lectura de libros
 <table>
