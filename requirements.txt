@@ -1,0 +1,8 @@
+pandas
+tabulate
+matplotlib
+plotly
+seaborn
+nbformat
+pandas-profiling
+ipywidgets

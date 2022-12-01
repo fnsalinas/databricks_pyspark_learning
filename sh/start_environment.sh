@@ -58,18 +58,12 @@ if [ ! -f "requirements.txt" ]; then
     echo "=====> Creating requirements.txt file"
     echo "pandas" >> requirements.txt
     echo "tabulate" >> requirements.txt
-    echo "pydata_google_auth" >> requirements.txt
-    echo "google-cloud-bigquery" >> requirements.txt
-    echo "pandas-gbq" >> requirements.txt
     echo "matplotlib" >> requirements.txt
     echo "plotly" >> requirements.txt
     echo "seaborn" >> requirements.txt
     echo "nbformat" >> requirements.txt
     echo "pandas-profiling" >> requirements.txt
     echo "ipywidgets" >> requirements.txt
-    echo "cx-Oracle" >> requirements.txt
-    echo "pyodbc" >> requirements.txt
-    echo "pyspark" >> requirements.txt
 fi
 
 # if README.md file doesn't exist, create it
