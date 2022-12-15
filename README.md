@@ -95,3 +95,10 @@ ___________
 
 ___________
 ## Organización del repositorio
+
+## Paquetes de Python para estudiar despues
+https://github.com/psf/black
+pylint
+flake8
+MyPy
+pre-commit
