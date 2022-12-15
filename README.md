@@ -115,3 +115,5 @@ ___________
         - https://towardsdatascience.com/getting-started-with-python-pre-commit-hooks-28be2b2d09d5
 - **Python Clean Code Best Practices**:
     - https://towardsdatascience.com/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60
+- **Medium khuyentran**:
+    - https://khuyentran1476.medium.com/
