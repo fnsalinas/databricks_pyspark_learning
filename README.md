@@ -97,8 +97,19 @@ ___________
 ## Organización del repositorio
 
 ## Paquetes de Python para estudiar despues
-https://github.com/psf/black
-pylint
-flake8
-MyPy
-pre-commit
+- https://github.com/psf/black
+- **pylint**:
+    - Ejemplos de uso:
+        - https://www.clubdetecnologia.net/blog/2020/uso-del-pylint-para-analizar-codigo-en-python/
+        - https://learn.microsoft.com/es-es/visualstudio/python/linting-python-code?view=vs-2022
+        - VSCode: https://code.visualstudio.com/docs/python/linting
+        - https://www.youtube.com/watch?v=fFY5103p5-c
+- **flake8**:
+    - Ejemplos de uso:
+        - https://www.youtube.com/watch?v=696nWsHMNgA
+- **MyPy**:
+    - Ejemplos de uso:
+        - https://realpython.com/lessons/type-checking-mypy/
+- **pre-commit**:
+    - Ejemplos de uso:
+        - https://towardsdatascience.com/getting-started-with-python-pre-commit-hooks-28be2b2d09d5
