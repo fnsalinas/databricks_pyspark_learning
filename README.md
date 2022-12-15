@@ -117,3 +117,6 @@ ___________
     - https://towardsdatascience.com/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60
 - **Medium khuyentran**:
     - https://khuyentran1476.medium.com/
+- **Python Automated Whatsapp Message Sender**:
+    - https://levelup.gitconnected.com/python-automated-whatsapp-message-sender-db488c8c6bc7
+
