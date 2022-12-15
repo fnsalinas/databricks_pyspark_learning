@@ -119,4 +119,7 @@ ___________
     - https://khuyentran1476.medium.com/
 - **Python Automated Whatsapp Message Sender**:
     - https://levelup.gitconnected.com/python-automated-whatsapp-message-sender-db488c8c6bc7
+- **Apache Airflow Tips and Best Practices**:
+    - https://medium.com/data-engineer-things/apache-airflow-tips-and-best-practices-ff64ce92ef8
+    - https://www.astronomer.io/blog/10-airflow-best-practices/
 
